@@ -1,6 +1,6 @@
 # Sobre mim
 
-- 👋 Me chamo wesley
+- 👋 Me chamo Wesley
 - ✉️ Email para contato vieira.silva.wesley@escola.pr.gov.br
 - 🌱 Atualmente estudante
 - 📫 Paraná, Brasil

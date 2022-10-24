@@ -1,7 +1,7 @@
 # Sobre mim
 
 - 👋 Me chamo **Wesley**
-- ✉️ [Email](vieira.silva.wesley@escola.pr.gov.br) para contato 
+- ✉️ Email vieira.silva.wesley@escola.pr.gov.br para contato 
 - 🌱 Atualmente estudante
 - 📫 Paraná, Brasil
 - Eu estou interessado em aprender a programar novas linguagens.
